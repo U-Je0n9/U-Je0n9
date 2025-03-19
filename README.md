@@ -1,16 +1,44 @@
-## Hi there 👋
 
-<!--
-**U-Je0n9/U-Je0n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Yu-Jeong Sung!
+### 💻 AI Researcher | Undergraduate Student 
 
-Here are some ideas to get you started:
+I am a **4th-year Computer Science student at Kyung Hee University**, specializing in **Vision-Language Multimodal AI**.  
+My research interests include:  
+- 🤖 **Multi-Agent Systems**  
+- 🎯 **Visual Question Answering (VQA)**  
+- 📊 **Evaluation Metrics for LLMs**  
+- 🏗️ **Generative Models and Large Language Models (LLMs)**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am conducting research on **multi-modal AI**, focusing on **integrating vision and language models for improved reasoning and interaction**.  
+
+---
+
+## 🔬 **Research & Experience**
+- 📌 **2022.03 ~ 2023.02**: Computer Science Club **D.com** - **Vice President**  
+- 📌 **2023.03 ~ 2024.02**: Computer Science Club **D.com** - **President**  
+- 📌 **2024.01 ~ 2024.12**: **External Relations Manager, Dept. of Computer Science, Kyung Hee University**   
+- 📌 **2024.04 ~ 2024.11**: **Uni-D Datathon Planning Team**  
+- 📌 **2024.02 ~**: Researcher at **Kyung Hee Univ. NLP Lab**  
+- 🏆 **2024.12**: **KSC Outstanding Paper Award**  
+
+---
+
+## 💻 **Skills & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+### 🌱 **Currently Learning & Exploring**
+- 🏗️ **Building a robust VQA framework**  
+- 📊 **Enhancing Reasoning Segmentation in VLMs**  
+- 🤖 **Developing AI agents with multimodal understanding**  
+- ⚙️ **Optimizing LLM evaluation metrics**  
+
+---
+
+## 📫 **Contact Me**
+- ✉️ Email: **wjddb1025@khu.ac.kr**  
