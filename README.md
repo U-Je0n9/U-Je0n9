@@ -18,7 +18,7 @@ Currently, I am conducting research on **multi-modal AI**, focusing on **integra
 - 📌 **2023.03 ~ 2024.02**: Computer Science Club **D.com** - **President**  
 - 📌 **2024.01 ~ 2024.12**: **External Relations Manager, Dept. of Computer Science, Kyung Hee University**   
 - 📌 **2024.04 ~ 2024.11**: **Uni-D Datathon Planning Team**  
-- 📌 **2024.02 ~**: Researcher at **Kyung Hee Univ. NLP Lab**  
+- 📌 **2024.02 ~ Present**: Researcher at **Kyung Hee Univ. NLP Lab**  
 - 🏆 **2024.12**: **KSC Outstanding Paper Award**  
 
 ---
