@@ -32,6 +32,13 @@ Currently, I am conducting research on **multi-modal AI**, focusing on **integra
 
 ---
 
+## 📜 **Publications**
+- Yu-Jeong Sung, Gyu-Min Park, Seong-Bae Park.  
+  *"명확화 질문을 통한 모호한 객체 참조 해결과 시각적 질의 응답 성능 향상"*  
+  **KSC 2024** (🏆 Outstanding Paper Award)  
+
+---
+
 ### 🌱 **Currently Learning & Exploring**
 - 🏗️ **Building a robust VQA framework**  
 - 📊 **Enhancing Reasoning Segmentation in VLMs**  
