@@ -48,4 +48,5 @@ Currently, I am conducting research on **multi-modal AI**, focusing on **integra
 ---
 
 ## 📫 **Contact Me**
-- ✉️ Email: **wjddb1025@khu.ac.kr**  
+- ✉️ Email: **wjddb1025@khu.ac.kr**
+- 📷 instagram: **@yx._.jxxng**
